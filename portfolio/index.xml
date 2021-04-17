@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Pranav Iyer</title>
+    <link>https://pranaviyer24.github.io/portfolio/</link>
+    <description>Recent content in Portfolios on Pranav Iyer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate><atom:link href="https://pranaviyer24.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Case study: Designing a fitness app</title>
+      <link>https://pranaviyer24.github.io/portfolio/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://pranaviyer24.github.io/portfolio/work1/</guid>
+      <description>&lt;p&gt;As a personal project I decided to design a fitness app FitTrack. This case study showcases my process in creating and designing this project.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Case study: NGO website re-design</title>
+      <link>https://pranaviyer24.github.io/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://pranaviyer24.github.io/portfolio/work4/</guid>
+      <description>&lt;p&gt;I was tasked with re-designing the website of the NGO Proud Indian in order to improve their donations and give it a more modern look.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Illustrations</title>
+      <link>https://pranaviyer24.github.io/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://pranaviyer24.github.io/portfolio/work2/</guid>
+      <description>&lt;p&gt;A compilation of various illustrations that I have made&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>UI design: Music player app</title>
+      <link>https://pranaviyer24.github.io/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://pranaviyer24.github.io/portfolio/work3/</guid>
+      <description>&lt;p&gt;As a personal project I decided to design a fitness app FitTrack. This case study showcases my process in creating and designing this project.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
