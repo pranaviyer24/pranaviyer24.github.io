@@ -1,3 +1,4 @@
+import { CaseStudies } from "./casestudies.component";
 import Hero from "./hero.component";
 import { PageNavBar } from "./pagenavbar.component";
 
@@ -8,6 +9,7 @@ const PageLayout = (props: PageLayoutProps) => {
     <div className="py-2 px-4">
       <PageNavBar />
       <Hero />
+      <CaseStudies />
     </div>
   );
 };
