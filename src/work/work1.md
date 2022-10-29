@@ -1,19 +1,7 @@
-+++
-date = "2016-11-05T19:41:01+05:30"
-title = "CASE STUDY: DESIGNING A FITNESS APP"
-draft = false
-image = "img/portfolio/Cover.png"
-showonlyimage = false
-weight = 1
-+++
-
-As a personal project I decided to design a fitness app FitTrack. This case study showcases my process in creating and designing this project.
-<!--more-->
-
-
 ![Cover image][1]
 
 ### The Problem
+
 Among budding fitness enthusiasts many find it difficult to figure out what routines to follow and require guidance to get started. This leads to many getting overwhelmed and dropping their fitness activities. FitTrack enables users to track their fitness and eating habits and view their progress in all relevant aspects.
 
 **The Objective** is
@@ -24,6 +12,7 @@ To guide users through a fitness routine and help them stay motivated.
 For my initial research, I went through a few existing research papers on exercise and motivation. According to the Self-Determination Theory proposed by Duncan, L.R., Hall, C.R., Wilson, P.M. et al. [in their paper on Exercise motivation][2] — exercise routines are initially motivated by extrinsic or external factors such as wanting to lose weight or wanting to ease body aches, but to sticking with a routine for a long time is motivated by intrinsic or internal factors such as the perceived sense of progress and the ensuing satisfaction.
 
 #### User interviews
+
 I then interviewed 5 users who exercised irregularly about their reason for following a fitness routines and how they kept track of their progress. To learn what keeps them motivated — I used the 5 Whys technique to get to the root of their reasons as shown in the flowchart. 4 out of 5 of the interviewees were determined to exercise to improve their self-confidence and the 1 other exercised to improve his long-term health.
 
 ![5 Whys][3]
@@ -48,8 +37,8 @@ Once I determined which sketches were the best — I used them as a reference to
 
 ![Lo-fi prototypes](/img/portfolio/Fitness_Study/lofi.png)
 
-
 ### Hi-Fi Prototypes
+
 #### Sign-up & onboarding
 
 These screens allow users to sign-up to the app and to provide some preliminary information about them such as previous experience, their height and weight so that the app can provide tailor-made food and workout recommendations to them.
